@@ -1,0 +1,9 @@
+{
+  "document": [ "txt", "md", "doc", "docs", "pdf", "xml" ],
+  "image": [ "png", "jpg", "jpeg", "svg" ],
+  "audio": [ "mp3" ],
+  "video": [ "mp4" ],
+  "code": [ "c", "h", "cs", "cpp", "hpp", "py", "js", "ts", "html", "css", "java", "go", "lua" ],
+  "archive": [ "tar", "7z", "zip" ],
+  "config": [ "json", "toml", "yaml" ]
+}
